@@ -4,7 +4,7 @@ This is my school account
 This repository will hold assignments for my class  
 # About Me
 ## My Interists
-  I am working twards a Business Analytics Degree from Wake Tech.  
+  I am working towards a Business Analytics Degree from Wake Tech.  
   My hobby that I spend the most time doing is playing video games. I have invested a lot of money and time into upgrading my PC. 
   I also love to watch sports I am a fan of NC State, LA Chargers, The Hurricanes, and Michigan Wolverines.
 ## Websites I Recommend
